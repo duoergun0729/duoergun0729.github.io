@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## 欢迎来到兜哥主页
 
-You can use the [editor on GitHub](https://github.com/duoergun0729/duoergun0729.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ ![头像](img/2.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介
 
-### Markdown
+兜哥，百度安全实验室AI安全负责人，具有10余年安全从业经历，曾任百度基础架构安全负责人，web安全产品线负责人。畅销AI安全书籍《web安全之机器学习入门》《web安全之深度学习实战》《web安全之强化学习与GAN》作者。Freebuf、雷锋网、安全客特邀专栏作家。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology writer of《machine learning for the web security》，《deep learning for the web security》《reinforcement learning and GANs for the web security》
 
-```markdown
-Syntax highlighted code block
+### 主要作品
 
-# Header 1
-## Header 2
-### Header 3
+ - 《web安全之机器学习入门》,2017出版
+ 
+ ![book1](img/book1.jpg)
+ 
+ - 《web安全之深度学习实战》,2017出版
+ 
+  ![book2](img/book2.jpg)
+ 
+ - 《web安全之强化学习与GAN》,2018出版
+ 
+  ![book3](img/book3.jpg)
+ 
+ - 《企业安全建设入门:基于开源软件打造企业网络安全》,2018出版
+ 
+  ![book4](img/book4.jpg)
+ 
 
-- Bulleted
-- List
+### 主要开源项目
+ 
+ - AdvBox
+ 
+ ![logo](img/logo1.png)
+ 
+ [https://github.com/baidu/AdvBox](https://github.com/baidu/AdvBox)
+ 
+ - OpenRASP
 
-1. Numbered
-2. List
+ [https://github.com/baidu/openrasp](https://github.com/baidu/openrasp) 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duoergun0729/duoergun0729.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 主要会议演讲
