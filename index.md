@@ -48,7 +48,8 @@ Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology
 
  - [安全大咖兜哥：机器学习为网络安全推开一扇窗](http://dy.163.com/v2/article/detail/DK1QRM9U0511DM95.html)
  - [人物- 兜哥：兜哥和他的AI安全三部曲](http://dy.163.com/v2/article/detail/DK1QRM9U0511DM95.html)
- - [兜哥丛书 Web安全系列，AI安全的攻与防](https://www.anquanke.com/subject/id/102542)
+ - [兜哥丛书 Web安全系列 AI安全的攻与防](https://www.anquanke.com/subject/id/102542)
+ 
 
 # 主要会议演讲
 
