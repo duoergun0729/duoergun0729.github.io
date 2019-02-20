@@ -26,7 +26,7 @@ Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology
 - [中国人工智能移动安全高峰论坛 2018 《AI时代的攻与防》](http://www.isc.org.cn/zxzx/xhdt/listinfo-36079.html)
 - [ISC 2018 《深度学习模型的脆弱性检测与加固》](http://www.ctoutiao.com/955145.html)
 - [第二届电子数据取证前瞻技术高端论坛 《感知欺骗：基于深度神经网络（DNN）下物理性对抗攻击与策略》](http://www.sohu.com/a/290379636_100012570)
-- [网络安全国际(InForSec)四大会议论文分享及产学对话 《感知欺骗：基于深度神经网络（DNN）下物理性对抗攻击与策略》](网络和系统安全四大顶级学术会议论文分享及产学对话)
+- [网络安全国际(InForSec)四大会议论文分享及产学对话 《感知欺骗：基于深度神经网络（DNN）下物理性对抗攻击与策略》](http://www.inforsec.org/wp/?p=2949)
 
 
 # 主要作品
