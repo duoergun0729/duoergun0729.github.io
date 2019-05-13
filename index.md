@@ -67,3 +67,14 @@ Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology
 
 ![qrcode](img/qrcode.jpg)
 
+# 主要专利
+
+- CN201910138054.7
+- CN201910138706.7
+- CN201910187998.3
+- CN201910189445.1
+- CN201910189316.2
+- CN201910204167.2
+- CN201910204138.6
+- CN201910140315.9
+
