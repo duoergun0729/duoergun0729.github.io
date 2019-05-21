@@ -4,7 +4,7 @@
 
 # 个人简介
 
-兜哥，百度安全实验室AI安全负责人，具有10余年安全从业经历，曾任百度基础架构安全负责人，web安全产品线负责人。畅销AI安全书籍《web安全之机器学习入门》《web安全之深度学习实战》《web安全之强化学习与GAN》作者。Freebuf、雷锋网、安全客特邀专栏作家。知名安全自媒体"兜哥带你学安全"主编。
+兜哥，百度安全实验室AI模型安全负责人，具有10余年安全从业经历，曾任百度基础架构安全负责人，web安全产品线负责人。研究方向集中在web安全与AI安全，多次在国内外著名安全会议发表演讲。开源应用自防护项目openrasp以及AI安全工具箱advbox负责人。畅销AI安全书籍《web安全之机器学习入门》《web安全之深度学习实战》《web安全之强化学习与GAN》作者。
 
 Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology writer of《machine learning for the web security》，《deep learning for the web security》,《reinforcement learning and GANs for the web security》
 
