@@ -4,10 +4,10 @@
 
 # 个人简介
 
-兜哥，百度安全实验室AI模型安全负责人，具有10余年安全从业经历，曾任百度基础架构安全负责人，web安全产品线负责人。研究方向集中在web安全与AI安全，多次在国内外著名安全会议发表演讲。开源应用自防护项目openrasp以及AI安全工具箱advbox负责人。畅销AI安全书籍《web安全之机器学习入门》《web安全之深度学习实战》《web安全之强化学习与GAN》《AI安全之对抗样本入门》作者。多次在国内外重要安全会议Defcon、ISC、C3、NSC、SSC上发表演讲，拥有十余项AI安全专利。
+兜哥，百度安全实验室AI模型安全负责人，具有10余年安全从业经历，曾任百度基础架构安全负责人，web安全产品线负责人。研究方向集中在web安全与AI安全，多次在国内外著名安全会议发表演讲。开源应用自防护项目openrasp以及AI安全工具箱advbox负责人。畅销AI安全书籍《web安全之机器学习入门》《web安全之深度学习实战》《web安全之强化学习与GAN》《AI安全之对抗样本入门》作者。多次在国内外重要安全会议Defcon、ISC、OWASP、C3、NSC、SSC上发表演讲，拥有十余项AI安全专利。
 ORCID iD is https://orcid.org/0000-0002-6021-1358.
 
-Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology writer of Machine learning for the web security,Deep learning for the web security,Reinforcement learning and GANs for the web security.He has delivered speeches on Defcon, ISC, C3, NSC and SSC at many important safety conferences at home and abroad, and has more than ten AI security patents.ORCID iD is https://orcid.org/0000-0002-6021-1358.
+Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology writer of Machine learning for the web security,Deep learning for the web security,Reinforcement learning and GANs for the web security.He has delivered speeches on Defcon, ISC, OWASP,C3, NSC and SSC at many important safety conferences at home and abroad, and has more than ten AI security patents.ORCID iD is https://orcid.org/0000-0002-6021-1358.
 
 # 主要采访
 
