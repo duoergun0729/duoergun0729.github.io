@@ -4,7 +4,7 @@
 
 # 个人简介
 
-兜哥，百度安全实验室AI模型安全负责人，具有10余年安全从业经历，曾任百度基础架构安全负责人，web安全产品线负责人。研究方向集中在web安全与AI安全，多次在国内外著名安全会议发表演讲。开源应用自防护项目openrasp以及AI安全工具箱advbox负责人。畅销AI安全书籍《web安全之机器学习入门》《web安全之深度学习实战》《web安全之强化学习与GAN》《AI安全之对抗样本入门》作者。多次在国内外重要安全会议Defcon、ISC、OWASP、C3、NSC、SSC上发表演讲，拥有十余项AI安全专利。
+兜哥，百度安全实验室AI模型安全负责人，具有10余年安全从业经历，曾任百度基础架构安全负责人，web安全产品线负责人。研究方向集中在web安全与AI安全，多次在国内外著名安全会议发表演讲。开源应用自防护项目openrasp以及AI安全工具箱advbox负责人。畅销AI安全书籍《web安全之机器学习入门》《web安全之深度学习实战》《web安全之强化学习与GAN》《AI安全之对抗样本入门》作者。多次在国内外重要安全会议Defcon、ISC、OWASP、C3、NSC、XCON、SSC上发表演讲，拥有十余项AI安全专利。
 ORCID iD is https://orcid.org/0000-0002-6021-1358.
 Public author identifier is http://arxiv.org/a/goodman_d_1 
 
@@ -27,6 +27,7 @@ Public author identifier is http://arxiv.org/a/goodman_d_1
 - [中国安卓开发者大会 2018 《AI模型的脆弱性以及常见攻击方法》](https://new.qq.com/omn/20180713/20180713A1CZM4.html)
 - [中国人工智能移动安全高峰论坛 2018 《AI时代的攻与防》](http://www.isc.org.cn/zxzx/xhdt/listinfo-36079.html)
 - [ISC 2018 《深度学习模型的脆弱性检测与加固》](http://www.ctoutiao.com/955145.html)
+- [XCON 2018 《AI模型安全以及攻击工具箱AdvBox》](https://www.anquanke.com/post/id/157195)
 - [第二届电子数据取证前瞻技术高端论坛 《感知欺骗：基于深度神经网络（DNN）下物理性对抗攻击与策略》](http://www.sohu.com/a/290379636_100012570)
 - [网络安全国际(InForSec)四大会议论文分享及产学对话 《感知欺骗：基于深度神经网络（DNN）下物理性对抗攻击与策略》](http://www.inforsec.org/wp/?p=2949)
 - [Defcon China 2019  Transferability of Adversarial Examples to Attack Cloud-based Image Classifier Service](https://www.defcon.org/html/dc-china-1/dc-cn-1-speakers.html) 
