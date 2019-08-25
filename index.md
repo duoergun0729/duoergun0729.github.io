@@ -33,6 +33,9 @@ Public author identifier is http://arxiv.org/a/goodman_d_1
 - [Defcon China 2019  Transferability of Adversarial Examples to Attack Cloud-based Image Classifier Service](https://www.defcon.org/html/dc-china-1/dc-cn-1-speakers.html) 
 - [Defcon China 2019  Face Swapping Video Detection with CNN ](https://www.defcon.org/html/dc-china-1/dc-cn-1-speakers.html) 
 - [NSC 2019 迁移攻击云端AI服务：一个被遗忘的战场](https://www.csdn.net/article/a/2019-06-14/15975640)
+- [COMMSEC: Tracking Fake News Based On Deep Learning. HITB GSEC 2019](https://gsec.hitb.org/sg2019/sessions/commsec-tracking-fake-news-based-on-deep-learning/)
+- [COMMSEC: Hacking Object Detectors Is Just Like Training Neural Networks. HITB GSEC 2019](https://gsec.hitb.org/sg2019/sessions/commsec-hacking-object-detectors-is-just-like-training-neural-networks/)
+- [COMMSEC: How to Detect Fake Faces (Manipulated Images) Using CNNs. HITB GSEC 2019](https://gsec.hitb.org/sg2019/sessions/commsec-how-to-detect-fake-faces-manipulated-images-using-cnns/)
 
 
 # 主要作品
