@@ -36,7 +36,7 @@ Public author identifier is http://arxiv.org/a/goodman_d_1
 - [COMMSEC: Tracking Fake News Based On Deep Learning. HITB GSEC 2019](https://gsec.hitb.org/sg2019/sessions/commsec-tracking-fake-news-based-on-deep-learning/)
 - [COMMSEC: Hacking Object Detectors Is Just Like Training Neural Networks. HITB GSEC 2019](https://gsec.hitb.org/sg2019/sessions/commsec-hacking-object-detectors-is-just-like-training-neural-networks/)
 - [COMMSEC: How to Detect Fake Faces (Manipulated Images) Using CNNs. HITB GSEC 2019](https://gsec.hitb.org/sg2019/sessions/commsec-how-to-detect-fake-faces-manipulated-images-using-cnns/)
-- [Cloud-based Image Classification Service Is Not Robust To Affine Transformation : A Forgotten Battlefield. CCSW 2019: The ACM Cloud Computing Security Workshop of CCS 2019](https://ccsw.io/#speakers)
+- [ABSTRACT:Cloud-based Image Classification Service Is Not Robust To Affine Transformation : A Forgotten Battlefield. CCSW 2019: The ACM Cloud Computing Security Workshop of CCS 2019](https://ccsw.io/#speakers)
 
 
 # 主要作品
