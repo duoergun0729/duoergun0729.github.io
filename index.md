@@ -8,7 +8,7 @@
 ORCID iD is https://orcid.org/0000-0002-6021-1358.
 Public author identifier is http://arxiv.org/a/goodman_d_1 
 
-Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology writer of Machine learning for the web security,Deep learning for the web security,Reinforcement learning and GANs for the web security.He has delivered speeches on Defcon, ISC, OWASP,C3, NSC and 、XCON、SSC at many important security conferences at home and abroad, and has more than ten AI security patents.ORCID iD is https://orcid.org/0000-0002-6021-1358.
+Liu Yan（兜哥），Head of AI security team of Baidu Xlab , Famous technology writer of Machine learning for the web security,Deep learning for the web security,Reinforcement learning and GANs for the web security.He has delivered speeches on Defcon, ISC, OWASP,C3, HITB,NSC and XCON、SSC at many important security conferences at home and abroad, and has more than ten AI security patents.ORCID iD is https://orcid.org/0000-0002-6021-1358.
 Public author identifier is http://arxiv.org/a/goodman_d_1 
 
 # 主要采访
