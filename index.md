@@ -37,6 +37,7 @@ Public author identifier is http://arxiv.org/a/goodman_d_1
 - [COMMSEC: Hacking Object Detectors Is Just Like Training Neural Networks. HITB GSEC 2019](https://gsec.hitb.org/sg2019/sessions/commsec-hacking-object-detectors-is-just-like-training-neural-networks/)
 - [COMMSEC: How to Detect Fake Faces (Manipulated Images) Using CNNs. HITB GSEC 2019](https://gsec.hitb.org/sg2019/sessions/commsec-how-to-detect-fake-faces-manipulated-images-using-cnns/)
 - [ABSTRACT:Cloud-based Image Classification Service Is Not Robust To Affine Transformation : A Forgotten Battlefield. CCSW 2019: The ACM Cloud Computing Security Workshop of CCS 2019](https://ccsw.io/#speakers)
+- [TRANSFERABILITY OF ADVERSARIAL EXAMPLES TO ATTACK REAL WORLD PORN IMAGES DETECTION SERVICE.HITB CyberWeek 2019](https://cyberweek.ae/session/transferability-of-adversarial-examples-to-attack-real-world-porn-images-detection-service/)
 
 
 # 主要作品
