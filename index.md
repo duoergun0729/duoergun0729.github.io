@@ -61,6 +61,10 @@ Public author identifier is http://arxiv.org/a/goodman_d_1
  
   ![book5](img/book5.jpg)
 
+# 国家标准
+
+- [全国信息安全标准化技术委员会 《人工智能安全标准化白皮书（2019版）》](https://www.tc260.org.cn/front/postDetail.html?id=20191031151659) 
+
 # 主要开源项目
  
 ## AdvBox
