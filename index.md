@@ -38,6 +38,7 @@ Public author identifier is http://arxiv.org/a/goodman_d_1.  Semantic Scholar UR
 - [COMMSEC: How to Detect Fake Faces (Manipulated Images) Using CNNs. HITB GSEC 2019](https://gsec.hitb.org/sg2019/sessions/commsec-how-to-detect-fake-faces-manipulated-images-using-cnns/)
 - [ABSTRACT:Cloud-based Image Classification Service Is Not Robust To Affine Transformation : A Forgotten Battlefield. CCSW 2019: The ACM Cloud Computing Security Workshop of CCS 2019](https://ccsw.io/#speakers)
 - [TRANSFERABILITY OF ADVERSARIAL EXAMPLES TO ATTACK REAL WORLD PORN IMAGES DETECTION SERVICE.HITB CyberWeek 2019](https://cyberweek.ae/session/transferability-of-adversarial-examples-to-attack-real-world-porn-images-detection-service/)
+- [Attacking and Defending Machine Learning Applications of Public Cloud.Blackhat Asia 2020](https://www.blackhat.com/asia-20/briefings/schedule/#attacking-and-defending-machine-learning-applications-of-public-cloud-18725)
 
 
 # 主要作品
