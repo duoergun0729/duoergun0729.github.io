@@ -9,7 +9,7 @@ ORCID iD is https://orcid.org/0000-0002-6021-1358.
 Public author identifier is http://arxiv.org/a/goodman_d_1 
 
 Liu Yan,ID: Dou Goodman, Head of AI security team of Baidu X-lab, Famous technology writer of Machine learning for the web security,Deep learning for the web security,Reinforcement learning and GANs for the web security. His research direction focuses on web security and AI security. His research results have been published in more than ten international conferences on top industrial security conferences such as Defcon, HITB, Blackhat, and top academic conferences CCS and INFOCOM. ORCID iD is https://orcid.org/0000-0002-6021-1358.
-Public author identifier is http://arxiv.org/a/goodman_d_1.  Semantic Scholar URL: https://www.semanticscholar.org/author/Dou-Goodman/146494384
+Public author identifier is http://arxiv.org/a/goodman_d_1.  Semantic Scholar URL: https://www.semanticscholar.org/author/Dou-Goodman/146494384. Researcher id: https://publons.com/researcher/3287727/dou-goodman/
 
 # 主要采访
 
