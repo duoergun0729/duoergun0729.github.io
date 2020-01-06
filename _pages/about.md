@@ -37,11 +37,6 @@ Liu Yan, ID: Dou Goodman, Head of AI security team of Baidu X-lab, Famous techno
 
 # Open Source Projects
  
-## AdvBox
- 
-  [https://github.com/baidu/AdvBox](https://github.com/baidu/AdvBox)
- 
-## OpenRASP
-
- [https://github.com/baidu/openrasp](https://github.com/baidu/openrasp) 
+- AdvBox [https://github.com/baidu/AdvBox](https://github.com/baidu/AdvBox)
+- OpenRASP [https://github.com/baidu/openrasp](https://github.com/baidu/openrasp) 
 
