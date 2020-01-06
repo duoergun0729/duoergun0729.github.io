@@ -6,3 +6,7 @@ Google Scholar is [https://scholar.google.com/citations?hl=zh-CN&user=IFyX_ogAAA
 
 Liu Yan, ID: Dou Goodman, Head of AI security team of Baidu X-lab, Famous technology writer of Machine learning for the web security,Deep learning for the web security,Reinforcement learning and GANs for the web security. His research direction focuses on web security and AI security. His research results have been published in more than ten international conferences on top industrial security conferences such as Defcon, HITB, Blackhat, and top academic conferences CCS and INFOCOM. Google Scholar ID is [https://scholar.google.com/citations?hl=zh-CN&user=IFyX_ogAAAAJ](https://scholar.google.com/citations?hl=zh-CN&user=IFyX_ogAAAAJ)
 
+# Main Page
+
+_pages/about.md
+
