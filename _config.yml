@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dou Goodman"
+title                    : "Liu Yan (Dou Goodman)"
 title_separator          : "-"
 name                     : &name "Liu Yan (Dou Goodman)"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liu Yan (Dou Goodman)"
+  name             : "Liu Yan"
   avatar           : "profile.png"
-  bio              : "Head of AI security team of Baidu X-lab, Famous technology writer of Machine learning for the web security,Deep learning for the web security,Reinforcement learning and GANs for the web security. His research direction focuses on web security and AI security. His research results have been published in more than ten international conferences on top industrial security conferences such as Defcon, HITB, Blackhat, and top academic conferences CCS and INFOCOM."
+  bio              : "Head of AI security team of Baidu X-lab, Famous technology writer of Machine learning for the web security, Deep learning for the web security, Reinforcement learning and GANs for the web security. His research direction focuses on web security and AI security. His research results have been published in more than ten international conferences on top industrial security conferences such as Defcon, HITB, Blackhat, and top academic conferences CCS and INFOCOM."
   location         : "Beijing"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/%E7%84%B1-%E5%88%98-355a72a9/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6021-1358"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
