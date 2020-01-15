@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic personal websites for Liu Yan"
+title: "Academic personal websites for Liu Yan (Dou Goodman)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
