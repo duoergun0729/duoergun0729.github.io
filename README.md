@@ -1,5 +1,7 @@
 # Dou Goodman
 
+<img src="imgs/logo.jpeg" alt="logo" style="zoom:25%;" />
+
 
 
 # Our Work
