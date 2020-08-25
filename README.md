@@ -16,15 +16,3 @@
 - [Face Swapping Video Detection with CNN. Defcon China 2019](https://www.defcon.org/html/dc-china-1/dc-cn-1-speakers.html)
 - [Transferability of Adversarial Examples to Attack Cloud-based Image Classifier Service. Defcon China 2019](https://www.defcon.org/html/dc-china-1/dc-cn-1-speakers.html#Yan). 
 
-
-
-# Our Project
-
-## AdvBox
-
-[Advbox](https://github.com/advboxes/AdvBox) is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models. Advbox give a command line tool to generate adversarial examples with Zero-Coding.
-
-## OpenRASP
-
-[OpenRASP](https://github.com/baidu/openrasp) Open source RASP solution
-
