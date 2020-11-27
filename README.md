@@ -2,7 +2,7 @@
 
 <img src="imgs/logo.jpeg" alt="logo" style="zoom:25%;" />
 
-
+Liu Yan, ID: Dou Goodman, Head of Ant Security Canyon Lab, a well-known writer who has written five books in the field of security. His research direction focuses on data security and AI security. His research results have been published in more than ten international conferences on top industrial security conferences such as Defcon, HITB, Blackhat, and top academic conferences CCS and INFOCOM.
 
 # Our Work
 
